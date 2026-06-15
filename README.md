@@ -1,5 +1,4 @@
 DSA Practice – Logic Building Journey
-📌 Overview
 
 This repository contains my daily practice of Data Structures and Algorithms (DSA), starting from basic problems and gradually building strong problem-solving skills.
 
@@ -20,5 +19,4 @@ Practice similar variations
 🛠️ Tech Stack
 Python
 Visual Studio Code
-Goal:
-To build strong DSA fundamentals for coding interviews, internships, and real-world problem solving.
+.
