@@ -4,5 +4,9 @@ This repository contains my daily practice of Data Structures and Algorithms (DS
 
 The focus is not just on solving problems, but on understanding the logic behind each solution and improving coding thinking step by step.
 
-
+🚀 What this repository includes
+Beginner-friendly DSA problems
+Clean and readable Python solutions
+Step-by-step logic building
+Variations of each problem for deeper understanding
 
