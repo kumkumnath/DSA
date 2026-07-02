@@ -7,6 +7,5 @@ The focus is not just on solving problems, but on understanding the logic behind
 🚀 What this repository includes
 Beginner-friendly DSA problems
 Clean and readable Python solutions
-Step-by-step logic building
-Variations of each problem for deeper understanding
+
 
