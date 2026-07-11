@@ -1,0 +1,8 @@
+class Solution(object):
+    def sortedSquares(self, nums):
+      ans = []
+      for i in range(len(nums)-1,-1,-1):
+          squares = nums[i]*nums[i]
+          ans.append(squares)
+      ans.sort()
+      return ans 
