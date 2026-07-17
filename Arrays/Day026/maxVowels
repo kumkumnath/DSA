@@ -1,0 +1,15 @@
+class Solution(object):
+    def maxVowels(self, s, k):
+      vowels ="aeiou"
+      window_count = 0
+      for ch in s[:k]:
+          if ch in  vowels:
+             window_count += 1
+      max_count = window_count
+      for i in range(k, len(s)):    
+          if s[i-k] in vowels:
+             window_count -= 1
+          if s[i] in vowels:
+             window_count += 1
+          max_count = max(window_count,max_count)
+      return max_count      
